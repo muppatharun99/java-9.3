@@ -1,0 +1,7 @@
+Example Output:
+
+Row deleted successfully.
+
+If user ID 2 does not exist:
+
+No rows were deleted.
