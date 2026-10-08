@@ -1,0 +1,9 @@
+{
+  "name": "delete-user-jdbc",
+  "version": "1.0.0",
+  "description": "Java JDBC program to delete a user record from MySQL",
+  "main": "DeleteUser.java",
+  "scripts": {
+    "run": "echo Use a Java IDE or javac/java with MySQL Connector/J"
+  }
+}
